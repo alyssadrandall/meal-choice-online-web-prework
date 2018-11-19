@@ -1,5 +1,5 @@
-def meal_choice(name = "meat")
-  
+def #meal_choice(name = "meat")
+    puts "#{name}"
 end
 
 describe '#meal_choice' do
